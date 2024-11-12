@@ -1,0 +1,3 @@
+([('main',
+   '/Users/sunny/Desktop/Mail Automation System/dist/main',
+   'EXECUTABLE')],)
